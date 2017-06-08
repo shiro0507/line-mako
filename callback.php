@@ -74,8 +74,8 @@ if ($message->{"text"} == '確認') {
                         ],
                         [
                             'type' => 'uri',
-                            'label' => '美容の口コミ広場を見る',
-                            'uri' => 'http://clinic.e-kuchikomi.info/'
+                            'label' => 'yahoo',
+                            'uri' => 'http://www.yahoo.co.jp/'
                         ]
                     ]
                 ],
@@ -90,8 +90,8 @@ if ($message->{"text"} == '確認') {
                         ],
                         [
                             'type' => 'uri',
-                            'label' => '女美会を見る',
-                            'uri' => 'https://jobikai.com/'
+                            'label' => 'LINE',
+                            'uri' => 'http://line.me/'
                         ]
                     ]
                 ],
